@@ -7,10 +7,10 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2024/11/06/Introduction-cyrus/",
-            "url": "http://example.com/2024/11/06/Introduction-cyrus/",
+            "id": "http://example.com/2024/01/07/Introduction-cyrus/",
+            "url": "http://example.com/2024/01/07/Introduction-cyrus/",
             "title": "Introduction-cyrus",
-            "date_published": "2024-11-06T09:06:54.352Z",
+            "date_published": "2024-01-06T16:00:00.000Z",
             "content_html": "<h1 id=\"welcome-to-my-blog\"><a class=\"anchor\" href=\"#welcome-to-my-blog\">#</a> Welcome to My Blog!</h1>\n<p><a href=\"https://chauhungcheungcyrus999.github.io/\">My website</a>! This is my very first post. Can't believe it, right? 😛 Same here. I've recently learned to use Hexo, and it's really nice stuff to learn, not gonna lie (ngl). I love this theme because it makes me feel relaxed :&gt;</p>\n<h2 id=\"features-of-this-website\"><a class=\"anchor\" href=\"#features-of-this-website\">#</a> Features of This Website</h2>\n<ol>\n<li><strong>Playlist:</strong> We have a music playlist featuring songs from JAY. I love his music very much.</li>\n<li><strong>Sidebar</strong></li>\n<li><strong>Favicon &amp; Failure Icon</strong></li>\n<li><strong>Menu Page</strong></li>\n<li>...</li>\n</ol>\n<h2 id=\"future-plans\"><a class=\"anchor\" href=\"#future-plans\">#</a> Future Plans</h2>\n<p>I will be adding different functions to the website, such as a comment section and a character that will follow the pointer. I probably will get a domain name for it, and I always want to automate updates on GitHub because no one wants to manually move updates every time.</p>\n<h2 id=\"action-speaks-louder-than-words\"><a class=\"anchor\" href=\"#action-speaks-louder-than-words\">#</a> Action Speaks Louder Than Words</h2>\n<p>Let's see my updates.</p>\n",
             "tags": []
         }
