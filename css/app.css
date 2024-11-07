@@ -2952,10 +2952,10 @@ use.stop-animation {
   color: #ffffff;
 }
 .social .item.instagram::before {
-  background-color: nstagra;
+  background-color: #ffffff;
 }
 .social .item.instagram i {
-  color: nstagra;
+  color: #ffffff;
 }
 .social .item:focus i,
 .social .item:hover i {
