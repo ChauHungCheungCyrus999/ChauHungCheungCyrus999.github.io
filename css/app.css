@@ -2946,10 +2946,10 @@ use.stop-animation {
   left: -10%;
 }
 .social .item.github::before {
-  background-color: #191717;
+  background-color: #ffffff;
 }
 .social .item.github i {
-  color: #191717;
+  color: #ffffff;
 }
 .social .item.instagram::before {
   background-color: nstagra;
