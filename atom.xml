@@ -50,6 +50,7 @@
 &lt;p&gt;I like the quote, &amp;quot;You become what you think.&amp;quot; Hope you all who read this far have a nice day :p&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://upload.wikimedia.org/wikipedia/en/3/33/Patrick_Star.svg&#34; alt=&#34;Patrick&#34; /&gt;&lt;/p&gt;
 </content>
+        <category term="Diary" scheme="http://example.com/categories/diary/" />
         <category term="Diary" scheme="http://example.com/tags/Diary/" />
         <updated>2024-11-11T08:04:53.000Z</updated>
     </entry>
@@ -133,6 +134,7 @@
 &lt;p&gt;Feel free to reach out if you have any questions or need further information. Happy lifting!&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://ih1.redbubble.net/image.5557560933.1515/st,small,507x507-pad,600x600,f8f8f8.u1.jpg&#34; alt=&#34;Patrick&#34; /&gt;&lt;/p&gt;
 </content>
+        <category term="GymUpdate" scheme="http://example.com/categories/gym/" />
         <category term="Gym" scheme="http://example.com/tags/Gym/" />
         <updated>2024-11-09T09:22:35.000Z</updated>
     </entry>
@@ -155,6 +157,7 @@
 &lt;h2 id=&#34;action-speaks-louder-than-words&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#action-speaks-louder-than-words&#34;&gt;#&lt;/a&gt; Action Speaks Louder Than Words&lt;/h2&gt;
 &lt;p&gt;Let&#39;s see my updates.&lt;/p&gt;
 </content>
+        <category term="Diary" scheme="http://example.com/categories/diary/" />
         <category term="Diary" scheme="http://example.com/tags/Diary/" />
         <updated>2024-01-06T16:00:00.000Z</updated>
     </entry>
