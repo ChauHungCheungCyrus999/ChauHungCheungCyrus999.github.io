@@ -14,9 +14,9 @@
     <category term=" cyrus" />
     <category term=" blog" />
     <entry>
-        <id>http://example.com/2024/11/11/Diary-11-11-2024/</id>
+        <id>http://example.com/2024/11/11/diary/Diary-11-11-2024/</id>
         <title>Diary-11/11/2024</title>
-        <link rel="alternate" href="http://example.com/2024/11/11/Diary-11-11-2024/"/>
+        <link rel="alternate" href="http://example.com/2024/11/11/diary/Diary-11-11-2024/"/>
         <content type="html">&lt;h1 id=&#34;date-2024-11-11&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#date-2024-11-11&#34;&gt;#&lt;/a&gt; Date: 2024-11-11&lt;/h1&gt;
 &lt;h2 id=&#34;first-diary&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#first-diary&#34;&gt;#&lt;/a&gt; First Diary&lt;/h2&gt;
 &lt;h3 id=&#34;introduction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt; Introduction&lt;/h3&gt;
@@ -50,12 +50,13 @@
 &lt;p&gt;I like the quote, &amp;quot;You become what you think.&amp;quot; Hope you all who read this far have a nice day :p&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://upload.wikimedia.org/wikipedia/en/3/33/Patrick_Star.svg&#34; alt=&#34;Patrick&#34; /&gt;&lt;/p&gt;
 </content>
+        <category term="Diary" scheme="http://example.com/tags/Diary/" />
         <updated>2024-11-11T08:04:53.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/11/09/Creatine/</id>
+        <id>http://example.com/2024/11/09/gym/Creatine/</id>
         <title>Creatine</title>
-        <link rel="alternate" href="http://example.com/2024/11/09/Creatine/"/>
+        <link rel="alternate" href="http://example.com/2024/11/09/gym/Creatine/"/>
         <content type="html">&lt;h1 id=&#34;the-complete-guide-to-creatine-benefits-usage-and-safety&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-complete-guide-to-creatine-benefits-usage-and-safety&#34;&gt;#&lt;/a&gt; The Complete Guide to Creatine: Benefits, Usage, and Safety&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 9, 2024&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt; Introduction&lt;/h2&gt;
@@ -132,12 +133,13 @@
 &lt;p&gt;Feel free to reach out if you have any questions or need further information. Happy lifting!&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://ih1.redbubble.net/image.5557560933.1515/st,small,507x507-pad,600x600,f8f8f8.u1.jpg&#34; alt=&#34;Patrick&#34; /&gt;&lt;/p&gt;
 </content>
+        <category term="Gym" scheme="http://example.com/tags/Gym/" />
         <updated>2024-11-09T09:22:35.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/01/07/Introduction-cyrus/</id>
+        <id>http://example.com/2024/01/07/diary/Introduction-cyrus/</id>
         <title>Introduction-cyrus</title>
-        <link rel="alternate" href="http://example.com/2024/01/07/Introduction-cyrus/"/>
+        <link rel="alternate" href="http://example.com/2024/01/07/diary/Introduction-cyrus/"/>
         <content type="html">&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-my-blog&#34;&gt;#&lt;/a&gt; Welcome to My Blog!&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://chauhungcheungcyrus999.github.io/&#34;&gt;My website&lt;/a&gt;! This is my very first post. Can&#39;t believe it, right? 😛 Same here. I&#39;ve recently learned to use Hexo, and it&#39;s really nice stuff to learn, not gonna lie (ngl). I love this theme because it makes me feel relaxed :&amp;gt;&lt;/p&gt;
 &lt;h2 id=&#34;features-of-this-website&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#features-of-this-website&#34;&gt;#&lt;/a&gt; Features of This Website&lt;/h2&gt;
@@ -153,6 +155,7 @@
 &lt;h2 id=&#34;action-speaks-louder-than-words&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#action-speaks-louder-than-words&#34;&gt;#&lt;/a&gt; Action Speaks Louder Than Words&lt;/h2&gt;
 &lt;p&gt;Let&#39;s see my updates.&lt;/p&gt;
 </content>
+        <category term="Diary" scheme="http://example.com/tags/Diary/" />
         <updated>2024-01-06T16:00:00.000Z</updated>
     </entry>
 </feed>
